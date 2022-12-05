@@ -143,3 +143,21 @@ body {
 .pink-box-4{
 	background-color: pink;
 }
+
+/*SECTION 5*/
+
+.container-sect-5{
+	background-color: grey;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.content-sect-5{
+	width: 60%;
+    height: 300px;
+    border: dashed;
+	background-color: green;
+	display: flex;
+	flex-grow: 0.15;
+}
