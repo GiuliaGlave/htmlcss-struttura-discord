@@ -47,11 +47,14 @@ body {
 	padding: 10px;
 }
 
+
+.section{
+	height: 400px;
+	
+}
+
 /*SECTION 1*/
 
-section{
-	height: 300px;
-}
 .container-sect-1{
 	background-color: blue;
 	display: flex;
