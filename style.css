@@ -47,8 +47,12 @@ body {
 	padding: 10px;
 }
 
-.container-sect-1{
+/*SECTION 1*/
+
+section{
 	height: 300px;
+}
+.container-sect-1{
 	background-color: blue;
 	display: flex;
 	justify-content: center;
@@ -60,4 +64,79 @@ body {
 	height: 250px;
 	background-color: pink;
 	border: dashed;
+}
+
+/*SECTION 2*/
+
+.container-sect-2{
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.content-sect-2{
+	width: 30%;
+    height: 300px;
+    border: dashed;
+}
+
+.blue-box-2{
+	background-color: blue;
+	display: flex;
+	flex-grow: 0.15;
+}
+
+.pink-box-2{
+	background-color: pink;
+}
+
+/*SECTION 3*/
+
+.container-sect-3{
+	background-color: grey;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.content-sect-3{
+	width: 30%;
+    height: 300px;
+    border: dashed;
+}
+
+.pink-box-3{
+	background-color: pink;
+}
+
+.blue-box-3{
+	background-color: blue;
+	display: flex;
+	flex-grow: 0.15;
+}
+
+/*SECTION 4*/
+
+.container-sect-4{
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.content-sect-4{
+	width: 30%;
+    height: 300px;
+    border: dashed;
+}
+
+.blue-box-4{
+	background-color: blue;
+	display: flex;
+	flex-grow: 0.15;
+}
+
+.pink-box-4{
+	background-color: pink;
 }
