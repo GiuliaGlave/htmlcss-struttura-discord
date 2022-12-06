@@ -161,3 +161,55 @@ body {
 	display: flex;
 	flex-grow: 0.15;
 }
+
+/*FOOTER*/
+.section-footer{
+	background-color: rgb(57, 57, 57);
+
+}
+
+.container-footer-top{
+	display: flex;
+    height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.column-1{
+	background-color: brown;
+	width: 200px;
+	height: 300px;
+	border: dashed;
+	display: flex;
+	flex-grow: 0.1;
+}
+.column-2{
+	background-color: aquamarine;
+	width: 200px;
+	height: 300px;
+	border: dashed white;
+	display: flex;
+}
+
+.column-3{
+	background-color: aquamarine;
+	width: 200px;
+	height: 300px;
+	border: dashed white;
+	display: flex;
+}
+.column-4{
+	background-color: aquamarine;
+	width: 200px;
+	height: 300px;
+	border: dashed white;
+	display: flex;
+}
+.column-5{
+	background-color: aquamarine;
+	width: 200px;
+	height: 300px;
+	border: dashed white;
+	display: flex;
+}
