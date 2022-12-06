@@ -213,3 +213,33 @@ body {
 	border: dashed white;
 	display: flex;
 }
+
+.container-footer-bottom{
+	border-top: 1px solid white;
+	display: flex;
+    height: 120px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-items: flex-end;
+}
+
+.content-footer-bottom{
+	margin-top: 2px;
+	background-color: aqua;
+	height: 80px;
+	width: 60%;
+	display: flex;
+	flex-grow: 0.15;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.bottoni{
+	background-color: brown;
+	border: dashed;
+	display: flex;
+	height: 30px;
+	padding: 10px;
+	align-items: center;
+}
